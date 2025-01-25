@@ -1,6 +1,6 @@
 name: Action CI
 on: [push]
-jons:
+jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
